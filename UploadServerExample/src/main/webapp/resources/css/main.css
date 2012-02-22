@@ -1,0 +1,10 @@
+/* main stylesheet not likely to ever be too fancy */
+
+body {
+	background: #000000;
+	color: #ffffff;
+	font-family: "Trebuchet MS", "Helvetica", "Arial",  "Verdana", "sans-serif";
+}
+
+a:link {color: #ffffff}
+a:visited {color: #cccccc}
