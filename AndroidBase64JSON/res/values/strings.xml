@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to the Android Upload Example App!</string>
+    <string name="app_name">AndroidBase64JSON</string>
+    <string name="upload_button">Upload Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_view_text">Welcome to the Image Upload View!</string>
+
+</resources>
