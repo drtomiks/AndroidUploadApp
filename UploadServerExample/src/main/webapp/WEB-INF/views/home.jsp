@@ -2,7 +2,7 @@
 <%@ page session="false"%>
 <html>
 <head>
-<title>DevOCRServer</title>
+<title>UploadServerExample</title>
 <link type="text/css" href="resources/css/main.css" rel="stylesheet" />
 <link type="text/css"
 	href="resources/css/ui-darkness/jquery-ui-1.8.17.custom.css"

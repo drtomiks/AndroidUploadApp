@@ -51,7 +51,7 @@
 </form:form>
 <br>
 <ul>
-<li><a href="/devocrserver">Home</a>
+<li><a href="/uploadserverexample">Home</a>
 </ul>
 </body>
 </html>

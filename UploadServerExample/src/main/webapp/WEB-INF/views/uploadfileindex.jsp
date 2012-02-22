@@ -20,7 +20,7 @@
 results.</p>
 <br>
 <ul><li><a href="uploadfile">Click here to upload another image file</a></li>
-<li><a href="/devocrserver">Home</a>
+<li><a href="/uploadserverexample">Home</a>
 </ul>
 <br>
 <br>
