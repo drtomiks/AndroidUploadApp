@@ -12,16 +12,14 @@
 	src="resources/js/jquery-ui-1.8.17.custom.min.js"></script>
 </head>
 <body background="resources/images/dapaper.jpg">
-	<h1>Developmental OCR Server</h1>
+	<h1>Upload Server Example</h1>
 
-	<p>This is the server component of my mobile data capture testing
-		framework. This server accepts image uploads from a data capture app
-		running on an Android device emulator. It then performs OCR on the
-		upload and returns the data to the device. This basic work flow is
-		illustrated in the slide below.
+	<p>This server accepts image uploads from the upload example app
+		running on an Android device emulator. It then returns some
+		JSON formatted data to the Android app.
 	<p>
 	<div align="center">
-		<img src="resources/images/data_cap_flow.jpg" width="500" />
+		<img src="resources/images/nyan-cat.gif" />
 	</div>
 
 	<ul>
