@@ -3,7 +3,7 @@ package com.example.androidbase64json;
 public class AppProperties {
 	
 	public static int uploadMode = 0; // 0: simple 1: json
-	public static String uploadUrl = "http://10.0.2.2:8080/devocrserver/uploadfile/phone"; // set to your server
+	public static String uploadUrl = "http://10.0.2.2:8080/uploadserverexample/uploadfile/phone"; // set to your server
 
 	/**
 	 * @return the uploadUrl
