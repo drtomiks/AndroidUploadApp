@@ -1,0 +1,22 @@
+README AndroidUploadApp
+
+This project consists of a simple Android app that demonstrates image
+file upload via HTTP Post. The file may be uploaded either in simple
+raw form or Base64 encoded in JSON format.
+
+The project also includes code for a simple upload web server written
+in Java in the Spring MVC framework. The app and the server were built
+in the Eclipse based Springsource Tool Suite.
+
+The image file is uploaded from the app running in the Android emulator 
+to the upload server all running on the same box.
+
+This example code is pretty bare bones at this point, but perusing the
+code should make it clear what's going on and enhancements like a file
+picker or some post upload processing are simple to add. And I am quite
+certain that this is not the best or most efficient way to code this.
+
+This code is a simple Thank You to everyone who posted code and tutorials
+that got me to this point.
+
+Tom McKibben
